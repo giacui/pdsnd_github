@@ -13,4 +13,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+dt.month() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.month.html
+
+dt.dayofweek() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.dayofweek.html
