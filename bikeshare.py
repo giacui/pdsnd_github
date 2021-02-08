@@ -187,7 +187,9 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data(df):
-    """Displays raw data."""
+    """Asks if the user would like to see indivitual trip data.
+    Returns:
+        Displays 5 raws of data each time the user types "yes" until there is no more data."""
 
     #Display the first 5 rows of data if requested
     r_stop=0
